@@ -33,8 +33,9 @@
     color: #f1f1f1;
 } 
 
-#bottom {
+.bottom {
     position: absolute;
     bottom: 0;
     left: 0;
+    font-size: 15px;
 }
