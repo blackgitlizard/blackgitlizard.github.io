@@ -35,7 +35,11 @@
 
 .bottom {
     position: absolute;
-    bottom: 0;
+    bottom: 20px;
     left: 0;
     font-size: 15px;
+}
+
+.bottom a{
+    font-size: 20px;
 }
