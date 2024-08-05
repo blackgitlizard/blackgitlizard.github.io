@@ -33,9 +33,8 @@
     color: #f1f1f1;
 } 
 
-.container {
-    display: flex;
-    flex-direction: column; /* Make children stack vertically */
-    justify-content: flex-end; /* Align children to the bottom */
-    height: 100vh; /* Full height of the viewport or container */
-  }
+#bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
